@@ -8,7 +8,7 @@ public class Test {
 		
 		System.out.println("test git success ! ");
 		
-		
+		System.out.println("test git icon show success ! ");
 		
 	}
 
